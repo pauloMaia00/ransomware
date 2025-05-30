@@ -1,5 +1,3 @@
-# Ransomware Project
-
 # Hybrid-Ransomware Proof-of-Concept
 
 A Python-based proof-of-concept that demonstrates the hybrid cryptography workflow used by modern ransomware. This project simulates the full lifecycle of a file-encryption attack and key-recovery process:
