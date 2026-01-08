@@ -75,6 +75,7 @@ This code is for educational purposes only. Do **not** deploy it on production s
 2. Decryption Phase
  - Client authenticates with server (example uses a hardcoded verification code: `wahoo`).
  - Server decrypts AES key using private RSA key.
- - Client uses recovered AES key to decrypt files. 
+ - Client uses recovered AES key to decrypt files.
+---
 **Short Walkthrough Video**
 Link: https://youtu.be/aeaSkzG2dY4?si=UBVt-5Ownp4AHoeF 
